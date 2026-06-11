@@ -1,21 +1,23 @@
 :root {
-  --teal:        #2f5d9f;
-  --teal-dark:   #1b3b6f;
-  --teal-light:  #eef4ff;
-  --teal-mid:    #c8d8f2;
+  /* 메인 컬러 */
+  --teal:        #3d69b2;   /* HIRA BLUE 4 */
+  --teal-dark:   #234491;   /* HIRA BLUE 5 */
 
-  --mint-bg:     #f8faff;
+  /* 연한 배경 */
+  --teal-light:  #dbe7f5;   /* HIRA BLUE 1 */
+  --teal-mid:    #73afdf;   /* HIRA BLUE 2 */
 
-  --navy:        #102542;
-  --navy-soft:   #29456b;
+  /* 카드 배경 */
+  --mint-bg:     #f8fbff;
 
-  --text:        #1f2937;
-  --sub:         #5b6472;
-  --border:      #d7e0ef;
+  /* 텍스트 */
+  --navy:        #234491;   /* HIRA BLUE 5 */
+  --navy-soft:   #3d69b2;   /* HIRA BLUE 4 */
 
+  --text:        #1c2b2e;
+  --sub:         #5f6b77;
+  --border:      #dbe7f5;
   --white:       #ffffff;
-  --yellow:      #fff8e1;
-  --yellow-bd:   #ffe082;
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
