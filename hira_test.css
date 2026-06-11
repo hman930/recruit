@@ -1,21 +1,21 @@
 :root {
-  --teal:        #00b49a;
-  --teal-dark:   #007f6e;
-  --teal-light:  #ffffff;
-  --teal-mid:    #b2ece5;
-  --mint-bg:     #ffffff;
-  --navy:        #0d2d3a;
-  --navy-soft:   #1a4455;
-  --text:        #1c2b2e;
-  --sub:         #4a6068;
-  --border:      #cce8e3;
+  --teal:        #2f5d9f;
+  --teal-dark:   #1b3b6f;
+  --teal-light:  #eef4ff;
+  --teal-mid:    #c8d8f2;
+
+  --mint-bg:     #f8faff;
+
+  --navy:        #102542;
+  --navy-soft:   #29456b;
+
+  --text:        #1f2937;
+  --sub:         #5b6472;
+  --border:      #d7e0ef;
+
   --white:       #ffffff;
   --yellow:      #fff8e1;
   --yellow-bd:   #ffe082;
-  --radius-sm:   6px;
-  --radius-md:   12px;
-  --radius-lg:   20px;
-  --font-base:   'Pretendard','Apple SD Gothic Neo','Malgun Gothic',sans-serif;
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
