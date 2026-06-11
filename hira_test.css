@@ -25,6 +25,7 @@ body {
   color: var(--text);
   font-size: 14px;
   line-height: 1.7;
+  background: transparent;
 }
 
 /* ── 전체 래퍼 ── */
